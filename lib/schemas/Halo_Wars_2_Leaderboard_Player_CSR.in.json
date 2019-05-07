@@ -1,0 +1,16 @@
+{
+    "type": "object",
+    "properties": {
+        "seasonId": {
+            "required": true,
+            "type": "string"
+        },
+        "playlistId": {
+            "required": true,
+            "type": "string"
+        },
+        "count": {
+            "type": "number"
+        }
+    }
+}

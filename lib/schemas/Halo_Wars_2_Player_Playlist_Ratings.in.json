@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "playlistId": {
+            "required": true,
+            "type": "string"
+        },
+        "players": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

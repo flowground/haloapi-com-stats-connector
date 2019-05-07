@@ -1,0 +1,18 @@
+{
+    "type": "object",
+    "properties": {
+        "player": {
+            "required": true,
+            "type": "string"
+        },
+        "matchType": {
+            "type": "string"
+        },
+        "start": {
+            "type": "number"
+        },
+        "count": {
+            "type": "number"
+        }
+    }
+}

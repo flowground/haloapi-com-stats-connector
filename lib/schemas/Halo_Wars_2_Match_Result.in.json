@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "matchId": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

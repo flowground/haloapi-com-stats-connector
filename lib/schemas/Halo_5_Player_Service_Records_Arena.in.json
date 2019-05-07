@@ -1,0 +1,12 @@
+{
+    "type": "object",
+    "properties": {
+        "players": {
+            "required": true,
+            "type": "string"
+        },
+        "seasonId": {
+            "type": "string"
+        }
+    }
+}

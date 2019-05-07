@@ -1,0 +1,21 @@
+{
+    "type": "object",
+    "properties": {
+        "player": {
+            "required": true,
+            "type": "string"
+        },
+        "modes": {
+            "type": "string"
+        },
+        "start": {
+            "type": "number"
+        },
+        "count": {
+            "type": "number"
+        },
+        "include_times": {
+            "type": "boolean"
+        }
+    }
+}
